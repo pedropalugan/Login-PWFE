@@ -34,4 +34,6 @@ We're supposed to design a web page for a login pretending we had to deliever th
 ![LoggedIn](https://user-images.githubusercontent.com/88800549/153680686-1a8fcd33-6db1-4f38-9945-2e4bdb8d537b.png)<br>
 
 
+
+## Tecnology used
 <h4>We used HTML, CSS, JavaScript and Bootstrap to make this page</h4>
