@@ -8,6 +8,8 @@ This was the second project made in a squad and the first one on PWFE classes. <
 
 
 <b>Innovation Skyline - SQUAD NAME</b><br>
+<br>
+<br>
 Matheus Alvarez - TECH LEAD<br>
 Pedro Palugan - Me<br>
 Luccas Thiago<br>
