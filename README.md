@@ -25,6 +25,6 @@ We're supposed to design a web page for a login pretending we had to deliever th
 ## Results
 
 
-![LoggedIn](https://user-images.githubusercontent.com/88800549/153680686-1a8fcd33-6db1-4f38-9945-2e4bdb8d537b.png)<br>
 ![MainPage](https://user-images.githubusercontent.com/88800549/153680693-16b37441-df7c-4113-bd4a-94fdefe0bd36.png)<br>
 ![SignPage](https://user-images.githubusercontent.com/88800549/153680698-ccf9c4a4-0581-447f-9d19-7e4ac6bf509a.png)<br>
+![LoggedIn](https://user-images.githubusercontent.com/88800549/153680686-1a8fcd33-6db1-4f38-9945-2e4bdb8d537b.png)<br>
