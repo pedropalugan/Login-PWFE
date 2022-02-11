@@ -41,7 +41,7 @@ function nova_pag(){
     document.getElementById("myPage").innerHTML = `
     <form id = "all">
 
-    <input class="form-control" type="text" placeholder="Email" id="novo_user">
+    <input class="form-control" type="text" placeholder="User" id="novo_user">
 
     <input class="form-control" type="password" placeholder="Password" id="novo_pass">
 
@@ -61,7 +61,7 @@ function antiga_pag(){
         <h3><img src="images/MicrosoftTeams-image.png" width="70" height="70"></h3>
 
 
-        <input class="form-control" type="text" placeholder="Email" id="username">
+        <input class="form-control" type="text" placeholder="User" id="username">
 
         <input class="form-control" type="password" placeholder="Password" id="password">
 
