@@ -16,4 +16,8 @@ Maria de Lurdes<br>
 
 <hr>
 
-##
+## Requirements
+
+<br>
+
+We're supposed to design a web page for a login pretending we had to deliever this to a customer, so we worked in SQUADS using TRELLO to organize our tasks.
